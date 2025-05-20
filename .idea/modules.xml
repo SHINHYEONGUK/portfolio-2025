@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-basic/java-basic.iml" filepath="$PROJECT_DIR$/java-basic/java-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mini-project/mini-project.iml" filepath="$PROJECT_DIR$/mini-project/mini-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/portfolio-2025.iml" filepath="$PROJECT_DIR$/portfolio-2025.iml" />
+    </modules>
+  </component>
+</project>
