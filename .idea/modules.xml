@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/java-basic/java-basic.iml" filepath="$PROJECT_DIR$/java-basic/java-basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/mini-project/mini-project.iml" filepath="$PROJECT_DIR$/mini-project/mini-project.iml" />
       <module fileurl="file://$PROJECT_DIR$/portfolio-2025.iml" filepath="$PROJECT_DIR$/portfolio-2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problem-solving/src/problem-solving/problem-solving.iml" filepath="$PROJECT_DIR$/problem-solving/src/problem-solving/problem-solving.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problem-solving1/problem-solving1.iml" filepath="$PROJECT_DIR$/problem-solving1/problem-solving1.iml" />
     </modules>
   </component>
 </project>
